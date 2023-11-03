@@ -40,3 +40,6 @@ brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 
 ```
+
+
+<h4> Now that you have checked that Azure, Brew, and Terraform are installed on your machine, please proceed with the following instructions to create a virtual machine. In these instructions, we will use Azure as our provider. </h4>
