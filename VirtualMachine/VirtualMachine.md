@@ -4,14 +4,15 @@
 ``` 
 az --version 
 
-``
+```
 
 ``` 
 brew --version 
 
-``
+```
 
 ``` 
+
 Terraform --version 
 
 ```
@@ -20,13 +21,14 @@ Terraform --version
 
 ``` 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-``
+
+```
 
 ``` 
 brew update && brew install azure-cli
 
 
-``
+```
 
 ``` 
 brew tap hashicorp/tap
