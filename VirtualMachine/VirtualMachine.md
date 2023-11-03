@@ -17,7 +17,7 @@ Terraform --version
 
 ```
 
-<h3>If you don’t have any of the above installed, please copy and paste the following commands one at a time into your terminal. Wait for each installation to complete before moving on to the next command.</h5>
+<h3>If you don’t have Azure, Brew, and Terraform installed on your machine, please copy and paste the following commands one at a time into your terminal. Wait for each installation to complete before moving on to the next command. Once the installations are complete, repeat the steps mentioned earlier to check the version. If you can see the versions, that means you have successfully installed them.</h5>
 
 ``` 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
